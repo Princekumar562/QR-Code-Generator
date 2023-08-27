@@ -19,14 +19,12 @@ body{
     align-items: center;
     background-color: var(--bcg-color);
 }
-
 .box{
     background-color: var(--primary-color);
     padding: 30px;
     width: 400px;
     border-radius: var(--border-radius);
 }
-
 .qr-header h1{
     font-size: 26px;
     text-align: center;
@@ -34,12 +32,10 @@ body{
     margin-bottom: 24px;
     text-transform: uppercase;
 }
-
 .qr-header input{
     width: 100%;
     margin-block: 12px;
 }
-
 .qr-header input, select{
     padding: 8px;
     border-radius: var(--border-radius);
@@ -47,7 +43,6 @@ body{
     outline: none;
     border: 2px solid var(--border-color);
 }
-
 .qr-header label{
     color: var(--secondary-color);
     font-size: 20px;
@@ -57,7 +52,6 @@ body{
     display: flex;
     justify-content: space-between;
 }
-
 .qr-footer{
     display: flex;
     justify-content: center;
